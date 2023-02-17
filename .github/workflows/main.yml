@@ -14,4 +14,6 @@ jobs:
         goos: linux
         goarch: amd64
         compress_assets: OFF
+        project_path: "./cmd/go-trafilatura"
+        binary_name: "go-trafilatura"
 
