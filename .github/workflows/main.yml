@@ -13,5 +13,5 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         goos: linux
         goarch: amd64
-        compress_assets: false
+        compress_assets: OFF
 
